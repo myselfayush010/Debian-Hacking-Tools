@@ -1,4 +1,4 @@
-# KALI LINUX ALL TOOLS INSTALL IN ONE CLICK NO MATTER WHICH OPERATING SYSTEM YOU ARE USING
+# KALI LINUX ALL TOOLS INSTALL IN just one click only in debian based operating system
 
 SUPPORTED ALL DEBIAN BASED LINUX.
 
@@ -12,3 +12,7 @@ SUPPORTED ALL DEBIAN BASED LINUX.
 - run = ./mac.sh
 
 
+# ubuntu linux
+# kali linux
+# parrot os
+# zorin os
