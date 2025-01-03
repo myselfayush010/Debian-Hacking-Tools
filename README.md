@@ -1,5 +1,9 @@
 # shell_script
 
+KALI LINUX ALL TOOLS INSTALL IN ONE CLICK NO MATTER WHICH OPERATING SYSTEM YOU ARE USING
+
+SUPPORTED ALL DEBIAN BASED LINUX.
+
 - tools.sh [ HOW TO USE ]
 - MAKE EXECUTABLE = chmod +x tools.sh
 - RUN              = ./tools.sh
