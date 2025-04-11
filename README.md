@@ -5,7 +5,7 @@ SUPPORTED ALL DEBIAN BASED LINUX.
 - tools.sh [ HOW TO USE ]
 - MAKE EXECUTABLE = chmod +x tools.sh
 - RUN              = ./tools.sh
-
+# now, bonus tips for security purpose - macchanger 
 - mac.sh  [ instruction ]
 - sudo apt install machanger
 - make executable = chmod +x mac.sh
